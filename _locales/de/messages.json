@@ -1,0 +1,180 @@
+{
+  "extensionName": {
+    "message": "Text in Feld ziehen",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Formularfelder durch drag&drop von einer Liste ausfüllen.",
+    "description": "Description of the extension."
+  },
+
+  "hintOpenSettings": {
+    "message": "Einstellungen öffnen.",
+    "description": "Open settings Form."
+  },
+
+  "hintToggleSidebar": {
+    "message": "Sidebar umschalten.",
+    "description": "Toggle sidebar."
+  },
+  
+  "fieldlists": {
+    "message": "Feldlisten",
+    "description": "Fieldlists"
+  },
+
+  "hintNewGroup": {
+    "message": "Neue Gruppe erstellen",
+    "description": "Create new Group"
+  },
+
+  "hintSetDefaultGroup": {
+    "message": "Diese Gruppe als Standard setzen",
+    "description": "Set this group as default"
+  },
+
+  "hintRenameGroup": {
+    "message": "Gruppe umbenennen",
+    "description": "Rename Group"
+  },
+
+  "hintDeleteGroup": {
+    "message": "Gruppe löschen",
+    "description": "Delete Group"
+  },
+
+  "hintExportData": {
+    "message": "Daten exportieren",
+    "description": "Export Data"
+  },
+
+  "hintImportData": {
+    "message": "Daten importieren",
+    "description": "Import Data"
+  },
+
+  "hintBrowserAction": {
+    "message": "Aktion auswählen, die vom Toolbar Button ausgeführt wird",
+    "description": "Choose action to occur on pressing toolbar button"
+  },
+
+  "browseraction": {
+    "message": "Toolbar Button öffnet:",
+    "description": "Toolbar Button opens:"
+  },
+
+  "save": {
+    "message": "Speichern",
+    "description": "Save"
+  },
+
+  "popupFields": {
+    "message": "Popup mit Feldern",
+    "description": "Popup of fields"
+  },
+
+  "sidebar": {
+    "message": "Sidebar",
+    "description": "Sidebar"
+  },
+
+  "hdrContent": {
+    "message": "Inhalt",
+    "description": "Content"
+  },
+
+  "hdrLabel": {
+    "message": "Label",
+    "description": "Label"
+  },
+
+  "hintContent": {
+    "message": "Text der in das Formular gezogen wird",
+    "description": "Text content to be dropped to target"
+  },
+
+  "hintLabel": {
+    "message": "Label das in der Feldliste angezeigt wird (optional)",
+    "description": "Label that is displayed in Fieldlist (optional)"
+  },
+
+  "text": {
+    "message": "Text",
+    "description": "Text"
+  },
+
+  "deleteRow": {
+    "message": "Zeile löschen",
+    "description": "Delete Row"
+  },
+
+  "addRow": {
+    "message": "Zeile hinzufügen",
+    "description": "Add new Row"
+  },
+
+  "newGroupName": {
+    "message": "Name der neuen Gruppe",
+    "description": "Name of new group"
+  },
+  
+  "dlgRename": {
+    "message": "'$OLDNAME$' umbenennen",
+    "description": "Rename Group.",
+	"placeholders": {
+		"oldname" : {
+		  "content" : "$1",
+		  "example" : "Example Group"
+		}
+	}
+  },
+  
+  "askDeleteGroup": {
+    "message": "Soll '$GROUP$' wirklich gelöscht werden",
+    "description": "Do you really wan't to delete group",
+	"placeholders": {
+		"group" : {
+		  "content" : "$1",
+		  "example" : "Example Group"
+		}
+	}
+  },
+
+  "savedSuccesfull": {
+    "message": "Erfolgreich gespeichert",
+    "description": "Saved successfully"
+  },
+  
+  "yes": {
+    "message": "Ja",
+    "description": "Yes"
+  },
+  
+  "no": {
+    "message": "Nein",
+    "description": "No"
+  },
+  
+  "ok": {
+    "message": "Ok",
+    "description": "Ok"
+  },
+  
+  "cancel": {
+    "message": "Abbruch",
+    "description": "Cancel"
+  },
+  
+  
+  "confirm": {
+    "message": "Bestätigung",
+    "description": "Confirm"
+  },
+
+  "settings": {
+    "message": "Einstellungen",
+    "description": "Settings"
+  }
+
+}

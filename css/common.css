@@ -1,0 +1,40 @@
+
+body {
+	padding: 1rem;
+	line-height: 150%;
+	font-size: 130%;
+}
+
+.txt-item { 
+	/* max-width: 100vw; */
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
+	overflow:hidden;
+	word-break: keep-all;
+	white-space: nowrap;
+}
+.txt-item:before {
+	content: '\2A78';
+	padding-right: 1rem;
+	font-weight: bold;
+}
+
+.txt-item:hover {
+	background-color: blue;
+	color: white;
+	cursor: grab;
+}
+
+.tb-button {
+	background-repeat: no-repeat;
+	background-size: 70%;
+	background-position: center;
+}
+
+#bt-settings { background-image: url('/icons/settings.svg'); }
+#bt-sidebar { background-image: url('/icons/sidebar.svg'); }
+
+#drag_ghost {
+	position: fixed;
+	top: -100000px;
+}

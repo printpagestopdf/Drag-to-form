@@ -1,0 +1,184 @@
+{
+  "extensionName": {
+    "message": "Drag to form",
+    "description": "Name of the extension."
+  },
+
+  "extensionShortName": {
+    "message": "FieldFillerR",
+    "description": "Short name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Fill form fields by dragging items from free configurable lists.",
+    "description": "Description of the extension."
+  },
+
+  "hintOpenSettings": {
+    "message": "Open settings Form.",
+    "description": "Open settings Form."
+  },
+
+  "hintToggleSidebar": {
+    "message": "Toggle sidebar.",
+    "description": "Toggle sidebar."
+  },
+
+  "fieldlists": {
+    "message": "Fieldlists",
+    "description": "Fieldlists"
+  },
+
+  "hintNewGroup": {
+    "message": "Create new Group",
+    "description": "Create new Group"
+  },
+
+  "hintSetDefaultGroup": {
+    "message": "Set this group as default",
+    "description": "Set this group as default"
+  },
+
+  "hintRenameGroup": {
+    "message": "Rename Group",
+    "description": "Rename Group"
+  },
+
+  "hintDeleteGroup": {
+    "message": "Delete Group",
+    "description": "Delete Group"
+  },
+
+  "hintExportData": {
+    "message": "Export Data",
+    "description": "Export Data"
+  },
+
+  "hintImportData": {
+    "message": "Import Data",
+    "description": "Import Data"
+  },
+
+  "hintBrowserAction": {
+    "message": "Choose action to occur on pressing toolbar button",
+    "description": "Choose action to occur on pressing toolbar button"
+  },
+
+  "browseraction": {
+    "message": "Toolbar Button opens:",
+    "description": "Toolbar Button opens:"
+  },
+
+  "save": {
+    "message": "Save",
+    "description": "Save"
+  },
+
+  "popupFields": {
+    "message": "Popup of fields",
+    "description": "Popup of fields"
+  },
+
+  "sidebar": {
+    "message": "Sidebar",
+    "description": "Sidebar"
+  },
+
+  "hdrContent": {
+    "message": "Content",
+    "description": "Content"
+  },
+
+  "hdrLabel": {
+    "message": "Label ",
+    "description": "Label"
+  },
+
+  "hintContent": {
+    "message": "Text content to be dropped to target",
+    "description": "Text content to be dropped to target"
+  },
+
+  "hintLabel": {
+    "message": "Label that is displayed in Fieldlist (optional)",
+    "description": "Label that is displayed in Fieldlist (optional)"
+  },
+
+  "text": {
+    "message": "Text",
+    "description": "Text"
+  },
+
+  "deleteRow": {
+    "message": "Delete Row",
+    "description": "Delete Row"
+  },
+
+  "addRow": {
+    "message": "Add new Row",
+    "description": "Add new Row"
+  },
+
+  "newGroupName": {
+    "message": "New group's name",
+    "description": "Name of new group"
+  },
+
+  "savedSuccesfull": {
+    "message": "Saved successfully",
+    "description": "Saved successfully"
+  },
+  
+  "yes": {
+    "message": "Yes",
+    "description": "Yes"
+  },
+  
+  "no": {
+    "message": "No",
+    "description": "No"
+  },
+  
+  "ok": {
+    "message": "Ok",
+    "description": "Ok"
+  },
+  
+  "cancel": {
+    "message": "Cancel",
+    "description": "Cancel"
+  },
+  
+  "confirm": {
+    "message": "Confirm",
+    "description": "Confirm"
+  },
+  
+  "dlgRename": {
+    "message": "Rename '$OLDNAME$'.",
+    "description": "Rename Group.",
+	"placeholders": {
+		"oldname" : {
+		  "content" : "$1",
+		  "example" : "Example Group"
+		}
+	}
+  },
+  
+  "askDeleteGroup": {
+    "message": "Do you really wan't to delete '$GROUP$'",
+    "description": "Do you really wan't to delete group",
+	"placeholders": {
+		"group" : {
+		  "content" : "$1",
+		  "example" : "Example Group"
+		}
+	}
+  },
+
+  "settings": {
+    "message": "Settings",
+    "description": "Settings"
+  }
+
+}
